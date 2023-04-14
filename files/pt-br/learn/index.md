@@ -34,7 +34,7 @@ A seguir, uma lista de todos os tópicos abordados na área de aprendizado da MD
 - [Intordução à Web](/pt-BR/docs/Aprender/Getting_started_with_the_web)
   - : Fornece uma introdução prática ao desenvolvimento da web para iniciantes.
 - [HTML - Estruturando a Web](/pt-BR/docs/Aprender/HTML)
-  - : HTML é a linguagem que usamos para estruturar as diferentes partes do nosso conteúdo e definir qual é o seu significado ou propósito. Este tópico ensina HTML em detalhes.
+  - : HTM
 - [CSS - Estilizando a Web](/pt-BR/docs/Aprender/CSS)
   - : CSS é a linguagem que podemos usar para estilizar e esquematizar nosso conteúdo web, além de adicionar comportamentos como animação. Este tópico fornece uma cobertura abrangente de CSS.
 - [JavaScript — Script dinamico do lado do cliente](/pt-BR/docs/Learn/JavaScript)
