@@ -7353,6 +7353,25 @@
       "finalex"
     ]
   },
+  "Web/API/Web_components": {
+    "modified": "2020-09-03T10:16:00.956Z",
+    "contributors": [
+      "m.tven18",
+      "Loosefer",
+      "Akh-rman",
+      "shmel115",
+      "newbornfrontender",
+      "Peccansy",
+      "alinofka",
+      "curdwithraisins",
+      "dmitrykurmanov",
+      "Kalita-Roman"
+    ]
+  },
+  "Web/API/Web_components/Using_custom_elements": {
+    "modified": "2020-01-05T09:04:07.966Z",
+    "contributors": ["Anonymous", "BurkovBA", "curtdp", "curdwithraisins"]
+  },
   "Web/API/Window": {
     "modified": "2019-03-23T23:09:39.081Z",
     "contributors": [
@@ -16329,25 +16348,6 @@
       "Steln",
       "aleks_root"
     ]
-  },
-  "Web/Web_Components": {
-    "modified": "2020-09-03T10:16:00.956Z",
-    "contributors": [
-      "m.tven18",
-      "Loosefer",
-      "Akh-rman",
-      "shmel115",
-      "newbornfrontender",
-      "Peccansy",
-      "alinofka",
-      "curdwithraisins",
-      "dmitrykurmanov",
-      "Kalita-Roman"
-    ]
-  },
-  "Web/Web_Components/Using_custom_elements": {
-    "modified": "2020-01-05T09:04:07.966Z",
-    "contributors": ["Anonymous", "BurkovBA", "curtdp", "curdwithraisins"]
   },
   "Web/XML": {
     "modified": "2019-03-24T13:24:33.354Z"
